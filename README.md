@@ -44,6 +44,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/onehellcat/onehellcat/output/snake.svg" alt="Snake animation" />
-
-###
